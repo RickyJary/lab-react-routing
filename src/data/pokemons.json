@@ -1,0 +1,142 @@
+[
+  {
+    "id":1,
+    "name": "Bulbasaur",
+    "type": ["Grass", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker patches and a plant bulb on its back."
+  },
+  {
+    "id":2,
+    "name": "Ivysaur",
+    "type": ["Grass", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+  },
+  {
+    "id":3,
+    "name": "Venusaur",
+    "type": ["Grass", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+  },
+  {
+    "id":4,
+    "name": "Charmander",
+    "type": ["Fire"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "description": "Charmander’s tail flame burns hotter if it is excited or enraged. It is known for its fiery personality."
+  },
+  {
+    "id":5,
+    "name": "Charmeleon",
+    "type": ["Fire"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "description": "It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws."
+  },
+  {
+    "id":6,
+    "name": "Charizard",
+    "type": ["Fire", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames."
+  },
+  {
+    "id":7,
+    "name": "Squirtle",
+    "type": ["Water"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "description": "Squirtle’s shell is not just for protection. Its rounded shape and the grooves on its surface help minimize resistance in water."
+  },
+  {
+    "id":8,
+    "name": "Wartortle",
+    "type": ["Water"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "description": "It cleverly controls its furry ears and tail to maintain its balance while swimming."
+  },
+  {
+    "id":9,
+    "name": "Blastoise",
+    "type": ["Water"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "description": "Blastoise has water spouts that protrude from its shell. They are capable of shooting water at powerful pressures."
+  },
+  {
+    "id":10,
+    "name": "Caterpie",
+    "type": ["Bug"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "description": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes."
+  },
+  {
+    "id":11,
+    "name": "Metapod",
+    "type": ["Bug"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "description": "Its shell is as hard as an iron slab. A Metapod does not move very much because it is preparing for evolution."
+  },
+  {
+    "id":12,
+    "name": "Butterfree",
+    "type": ["Bug", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "description": "Butterfree has a superior ability to search for delicious honey from flowers. It can even detect tiny amounts of pollen."
+  },
+  {
+    "id":13,
+    "name": "Weedle",
+    "type": ["Bug", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "description": "Weedle has an extremely acute sense of smell. It can distinguish its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis."
+  },
+  {
+    "id":14,
+    "name": "Kakuna",
+    "type": ["Bug", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "description": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution."
+  },
+  {
+    "id":15,
+    "name": "Beedrill",
+    "type": ["Bug", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "description": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety."
+  },
+  {
+    "id":16,
+    "name": "Pidgey",
+    "type": ["Normal", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "description": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings."
+  },
+  {
+    "id":17,
+    "name": "Pidgeotto",
+    "type": ["Normal", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "description": "Pidgeotto claims a large area as its territory. This Pokémon flies around, patrolling its living space."
+  },
+  {
+    "id":18,
+    "name": "Pidgeot",
+    "type": ["Normal", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "description": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon."
+  },
+  {
+    "id":19,
+    "name": "Rattata",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "description": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around."
+  },
+  {
+    "id":20,
+    "name": "Raticate",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "description": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey."
+  }
+]
